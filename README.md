@@ -1,13 +1,18 @@
-# Responsive Landing Page Headphones 🎧
-## [Watch it on youtube](https://youtu.be/wXnlHIvKnTM)
-### Responsive Landing Page Headphones 🎧
+# Beats Product Landing Page 🎧
 
-- Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
-- Dark interface.
-- With animations when scrolling.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+A modern, dark-themed responsive landing page for wireless headphones, built with clean semantic HTML5, CSS3, and vanilla JavaScript.
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+🔗 **[Live Demo](https://aziz208080.github.io/beats-landing/)**
 
-![](/preview.png)
+![Project Preview](./preview.png)
+
+## ✨ Key Features
+- **Responsive Design:** Built using a Mobile-First approach, adapting seamlessly across mobile, tablet, and desktop screens.
+- **Smooth Scroll Animations:** Interactive scroll reveal effects and smooth navigation between sections (`Home`, `Specs`, `Case`, `Products`).
+- **Dark UI Aesthetic:** High-contrast dark interface tailored for modern consumer electronics.
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3 (Flexbox & CSS Grid)
+- JavaScript (ES6+)
+- ScrollReveal.js
